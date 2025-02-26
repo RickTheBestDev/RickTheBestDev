@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# este sou eu
+
+Sou o **Henrique Carvalho**, aluno de desenvolvimento de sistema, *casado com a laulau*.
+
+## Formação acadêmica
+
+Estou estudando sobre tecnologia da informação.
+
+Posso escrver um pequeno trecho de código como `git status` ou então trechos maiores como abaixo:
+
+```javascript
+    const constante = 0; //constante precisa ser inicializada
+```
+
+```python
+def ola_mundo() {
+   print('Olá, Mundo!')
+}
+```
