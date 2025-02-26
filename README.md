@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# este sou eu
+# Este Sou Eu
 
 Sou o **Henrique Carvalho**, aluno de desenvolvimento de sistema, *casado com a laulau*.
 
