@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Este Sou Eu
 
-Sou o **Henrique Carvalho**, aluno de desenvolvimento de sistema, *casado com a laulau*.
+Sou o **Henrique Carvalho**, aluno de desenvolvimento de sistema.
 
 ## Formação acadêmica
 
