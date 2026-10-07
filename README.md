@@ -80,6 +80,15 @@ Aqui você vai encontrar meus projetos, estudos e experimentos na área de desen
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RickTheBestDev/RickTheBestDev/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br/>
+<br/>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RickTheBestDev/RickTheBestDev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RickTheBestDev/RickTheBestDev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RickTheBestDev/RickTheBestDev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 ### 📊 Estatísticas
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickTheBestDev&theme=gruvbox)
