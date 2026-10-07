@@ -81,14 +81,13 @@ Aqui você vai encontrar meus projetos, estudos e experimentos na área de desen
 </picture>
 
 <br/>
-<br/>
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RickTheBestDev/RickTheBestDev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RickTheBestDev/RickTheBestDev/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RickTheBestDev/RickTheBestDev/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
 ### 📊 Estatísticas
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickTheBestDev&theme=gruvbox)
