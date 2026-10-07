@@ -1,6 +1,6 @@
 # 👨‍💻 Henrique Smocovitz Carvalho
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Back-End`**
 
 Tenho grande interesse em compreender como a tecnologia funciona na prática e em utilizar a programação como ferramenta para solucionar problemas reais. Essa curiosidade foi o que me motivou a ingressar na área de desenvolvimento de sistemas e a buscar constante evolução no campo da tecnologia.
 
