@@ -90,5 +90,5 @@ Aqui você vai encontrar meus projetos, estudos e experimentos na área de desen
 
 ### 📊 Estatísticas
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickTheBestDev&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RickTheBestDev&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RickTheBestDev&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RickTheBestDev&theme=dracula)
